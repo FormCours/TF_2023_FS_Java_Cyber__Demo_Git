@@ -1,6 +1,5 @@
-# Demo Git !
+# Demo Git
 
-### Test
-### Java CyberSecurité !
+### FS Java CyberSecu !
 
-Exemple de l'utilisation de GIT 🤖
+Exemple de l'utilisation de Git 🤖
