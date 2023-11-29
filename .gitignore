@@ -1,0 +1,8 @@
+# Le dossier "dist"
+[Dd]ist
+
+# Les fichiers avec l'extension ".test"
+*.test
+
+# Les fichiers "exo.hello" dans le dossier "pause"
+pause/**/exo.hello
